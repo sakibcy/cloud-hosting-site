@@ -656,6 +656,13 @@ h3 {
 
 .block__header {
   text-align: center;
+  margin-bottom: 4rem;
+}
+
+.block__header > h1,
+h2 {
+  text-align: center;
+  color: var(--color-heading);
 }
 
 .container {
